@@ -26,7 +26,9 @@
 复变函数 | 暂无 | [复分析·可视化方法](https://item.jd.com/10063608.html) | 暂无
 [电路基础](http://open.163.com/special/opencourse/circuits.html) | MIT | [Foundations of Analog and Digital Electronic Circuits](https://www.elsevier.com/books/foundations-of-analog-and-digital-electronic-circuits/agarwal/978-0-08-050681-4)或[电路基础（原书第5版）](https://item.jd.com/11508886.html) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/index.htm)
 [信号与系统](http://open.163.com/special/opencourse/signals.html) | MIT | [Signals and Systems (2nd Edition)](https://www.amazon.com/Signals-Systems-2nd-Alan-Oppenheim/dp/0138147574/ref=sr_1_1?s=books&ie=UTF8&qid=1480857180&sr=1-1&keywords=signals+and+systems&refinements=p_lbr_one_browse-bin%3AAlan+V.+Oppenheim%2Cp_72%3A1250222011) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/index.htm)
-
+[Matlab编程简介](https://www.youtube.com/watch?v=6iN56l7dEMY&list=PLgEkkJcwLzjeL2Ywe0g66GaggDQxmV05p) | Coursera  | 	 [Computer Programming with MATLAB](http://cs103.net/buy/) | 	暂无
+数学物理方法| 	暂无	| [数学物理方法. [德] 顾樵](https://item.jd.com/1257208980.html) | 	暂无
+数值分析 | 暂无 | 	[数值分析. [美] Timothy Sauer](https://item.jd.com/11586820.html) | 	暂无
 
 ##<h2 id="learning_routine">电子工程专业学习路线</h2>
 ###<h3 id="EE_begin">什么是电子工程和计算机科学</h3>
@@ -61,9 +63,9 @@
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
-Matlab | 暂无| 	 暂无| 	暂无
+[Matlab编程简介](https://www.youtube.com/watch?v=6iN56l7dEMY&list=PLgEkkJcwLzjeL2Ywe0g66GaggDQxmV05p) | Coursera  | 	 [Computer Programming with MATLAB](http://cs103.net/buy/) | 	暂无
 数学物理方法| 	暂无	| [数学物理方法. [德] 顾樵](https://item.jd.com/1257208980.html) | 	暂无
-数值分析 | 华章数学丛书| 	[数值分析. [美] Timothy Sauer](https://item.jd.com/11586820.html) | 	暂无
+数值分析 | 暂无 | 	[数值分析. [美] Timothy Sauer](https://item.jd.com/11586820.html) | 	暂无
 
 ###<h2 id="task">任务</h2>
 - 完成微积分、线性代数、概率论部分课后题
@@ -72,4 +74,4 @@ Matlab | 暂无| 	 暂无| 	暂无
 - 其他
 
 ###<h3 id="many_thanks">致谢</h3>
-  
+  感谢西安电子科大李少军博士的建议与资料的分享。
