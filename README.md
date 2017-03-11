@@ -33,7 +33,7 @@
 ##<h2 id="learning_routine">电子工程专业学习路线</h2>
 ###<h3 id="EE_begin">什么是电子工程和计算机科学</h3>
 
-维基百科：[Electrical Engineering](https://en.wikipedia.org/wiki/Electrical_engineering)
+- 维基百科：[Electrical Engineering](https://en.wikipedia.org/wiki/Electrical_engineering)
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
